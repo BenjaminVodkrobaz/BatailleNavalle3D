@@ -1,8 +1,10 @@
 
 
 class Plateau:
-    def __init__(self):
-        self.initGrille()
 
-    def initGrille(self):
-        pass
+    def __init__(self):
+        self.grille = [[[None]*10]*5]*3
+        
+
+
+
