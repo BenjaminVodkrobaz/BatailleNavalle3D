@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Etat_Tir.md",
+            "file": "Num_Joueur.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etat_Tir.md",
+                "file": "Num_Joueur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8d3c8728af01c556",
   "lastOpenFiles": [
-    "Etat_Tir.md",
-    "Piece.md",
-    "Fonctionnement Général.md",
-    "Joueur.md",
-    "Game.md",
-    "Plateau.md",
     "Num_Joueur.md",
+    "Fonctionnement Général.md",
+    "Etat_Tir.md",
     "Etat_Bateau.md",
+    "Resultat_Tir.md",
+    "Plateau.md",
     "Sens.md",
-    "Resultat_Tir.md"
+    "Piece.md",
+    "Joueur.md",
+    "Game.md"
   ]
 }
