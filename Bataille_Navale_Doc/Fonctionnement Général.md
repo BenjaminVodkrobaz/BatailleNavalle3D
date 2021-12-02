@@ -14,3 +14,4 @@ Enum :
 -	[[Etat_Tir]]
 -	[[Num_Joueur]]
 -	[[Sens]]
+-	[[Resultat_Tir]]
