@@ -1,7 +1,8 @@
 from enum import Enum
-#Enum qui représente le sens du bateau posé 
+# Enum qui représente le sens du bateau posé
 
-class Sens(Enum) :
+
+class Sens(Enum):
     HAUT = 0
     BAS = 1 
     GAUCHE = 2 
