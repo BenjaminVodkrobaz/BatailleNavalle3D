@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Game.md",
+=======
+            "file": "Num_Joueur.md",
+>>>>>>> Benjamin
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Game.md",
+=======
+                "file": "Num_Joueur.md",
+>>>>>>> Benjamin
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +96,7 @@
   },
   "active": "8d3c8728af01c556",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Game.md",
     "Etat_Tir.md",
     "Etat_Bateau.md",
@@ -98,5 +107,17 @@
     "Sens.md",
     "Piece.md",
     "View_Plateau.md"
+=======
+    "Num_Joueur.md",
+    "Fonctionnement Général.md",
+    "Etat_Tir.md",
+    "Etat_Bateau.md",
+    "Resultat_Tir.md",
+    "Plateau.md",
+    "Sens.md",
+    "Piece.md",
+    "Joueur.md",
+    "Game.md"
+>>>>>>> Benjamin
   ]
 }
